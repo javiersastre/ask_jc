@@ -1,0 +1,35 @@
+{
+    "title": [
+        [
+            "Age profile of susceptibility, mixing, and social distancing shape the dynamics of the novel coronavirus disease 2019 outbreak in China"
+        ]
+    ],
+    "abstract": [
+        [
+            "Strict interventions were successful to control the novel coronavirus (COVID-19) outbreak in China.",
+            "As transmission intensifies in other countries, the interplay between age, contact patterns, social distancing, susceptibility to infection and disease, and COVID-19 dynamics remains unclear.",
+            "To answer these questions, we analyze contact surveys data for Wuhan and Shanghai before and during the outbreak and contact tracing information from Hunan Province.",
+            "Daily contacts were reduced 7-9 fold during the COVID-19 social distancing period, with most interactions restricted to the household.",
+            "Children 0-14 years were 59% (95% CI 7-82%) less susceptible than individuals 65 years and over.",
+            "A transmission model calibrated against these data indicates that social distancing alone, as implemented in China during the outbreak, is sufficient to control COVID-19.",
+            "While proactive school closures cannot interrupt transmission on their own, they reduce peak incidence by half and delay the epidemic.",
+            "These findings can help guide global intervention policies."
+        ]
+    ],
+    "body": [
+        [
+            "also estimate age differences in susceptibility to infection and clinical disease based on contact tracing information gathered by the Hunan Provincial Center for Disease Control and Prevention (CDC), China.",
+            "Based on those findings, we develop a mathematical transmission model to disentangle how transmission is affected by age differences in the biology of COVID-19 infection and disease, and altered mixing patterns due to social distancing.",
+            "In turn, we project the impact of social distancing and school closure on COVID-19 transmission."
+        ],
+        [
+            "To estimate changes in age-mixing patterns associated with COVID-19 interventions, we performed contact surveys in two cities, Wuhan, the epicenter of the outbreak, and Shanghai, one of the largest and most densely populated cities in southeast China.",
+            "Shanghai experienced extensive importation of COVID-19 cases from Wuhan as well as local transmission (3) .",
+            "The surveys were conducted from February 1, 2020 to February 10, 2020, as transmission of COVID-19 peaked across China and stringent interventions were in place.",
+            "Participants in Wuhan were asked to complete a questionnaire describing their contact behavior (4, 5) on two different days: i) a regular weekday between December 24, 2020 and December 30, 2020, before the COVID-19 outbreak was officially recognized by the Wuhan Municipal Health Commission (used as baseline); and ii)",
+            "the day before the interview (outbreak period).",
+            "A similar survey was conducted in Shanghai to obtain information on contacts during the COVID-19 outbreak period; contacts for the baseline period were based on a survey using the same design conducted in the same city in 2017-2018 (6) .",
+            "Details are given in the Supplementary Material."
+        ]
+    ]
+}

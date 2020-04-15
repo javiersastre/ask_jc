@@ -1,0 +1,42 @@
+{
+    "title": [
+        [
+            "BMC Genomics Novel genome polymorphisms in BCG vaccine strains and impact on efficacy"
+        ]
+    ],
+    "abstract": [
+        [
+            "Bacille Calmette-Guérin (BCG) is an attenuated strain of Mycobacterium bovis currently used as a vaccine against tuberculosis.",
+            "Global distribution and propagation of BCG has contributed to the in vitro evolution of the vaccine strain and is thought to partially account for the different outcomes of BCG vaccine trials.",
+            "Previous efforts by several molecular techniques effectively identified large sequence polymorphisms among BCG daughter strains, but lacked the resolution to identify smaller changes.",
+            "In this study, we have used a NimbleGen tiling array for whole genome comparison of 13 BCG strains.",
+            "Using this approach, in tandem with DNA resequencing, we have identified six novel large sequence polymorphisms including four deletions and two duplications in specific BCG strains.",
+            "Moreover, we have uncovered various polymorphisms in the phoP-phoR locus.",
+            "Importantly, these polymorphisms affect genes encoding established virulence factors including cell wall complex lipids, ESX secretion systems, and the PhoP-PhoR two-component system.",
+            "Our study demonstrates that major virulence factors are different among BCG strains, which provide molecular mechanisms for important vaccine phenotypes including adverse effect profile, tuberculin reactivity and protective efficacy.",
+            "These findings have important implications for the development of a new generation of vaccines."
+        ]
+    ],
+    "body": [
+        [
+            "Bacille Calmette-Guérin (BCG) is an attenuated strain of Mycobacterium bovis and is the only available vaccine against tuberculosis (TB).",
+            "Since 1974, BCG vaccination has been included in the World Health Organization (WHO) Expanded Program on Immunization.",
+            "It is estimated that more than 3 billion individuals have been immunized with BCG and over 100 million doses of BCG are administered annually.",
+            "Multiple studies have confirmed that BCG is generally safe and can protect children against disseminated disease, including tuberculosis meningitis [1, 2] .",
+            "BCG also provides cross-protection against leprosy [3] .",
+            "However, the success of BCG against pulmonary TB in adults is still debated, since randomized clini-cal trials have reported protection efficacy ranging from 0-80% [4, 5] .",
+            "Several hypotheses for the variation in observed efficacy have been proposed [6] [7] [8] [9] ."
+        ],
+        [
+            "One explanation concerns the heterogeneity of the BCG strains [6] .",
+            "The original BCG was derived from a virulent strain of M. bovis isolated from a cow.",
+            "From 1908 through 1921, this isolate was subjected to 230 passages on glycerinated potato bile medium, which generated an attenuated strain termed BCG [10] .",
+            "Distribution and widespread use of BCG started around 1924 and was accompanied by changes in the manufacturing process in production facilities.",
+            "For instance, while BCG in Sweden was transferred without interruption from bile potato to bile potato medium in accordance with Calmette's original practice [11] , BCG production in Denmark involved alternating rounds of growth on potato bile medium and Sauton broth until 1949 when it was grown exclusively in Sauton medium [12] .",
+            "Prior to the establishment of seed stocks in the 1960s, BCG was passaged continuously, and the changes in media and transfer schedules contributed to the \"in vitro evolution\" of BCG [6] .",
+            "It is estimated that as many as 49 production substrains have been used at one time or another in various parts of the world [13] , including the four major BCG vaccines in current use (BCG-Pasteur, -Danish, -Glaxo, and -Japan)",
+            "[14] .",
+            "The relative protective efficacy of BCG substrains is currently unknown [6, 15] ."
+        ]
+    ]
+}

@@ -1,0 +1,3 @@
+score,dataset_id,paper_id,block_id,section_number,sentence_number,sentence
+2.79,comm_use_subset,0a00a6df208e068e7aa369fb94641434ea0e6070,1,0,1,Global distribution and propagation of BCG has contributed to the in vitro evolution of the vaccine strain and is thought to partially account for the different outcomes of BCG vaccine trials.
+2.72,comm_use_subset,0a00a6df208e068e7aa369fb94641434ea0e6070,0,0,0,BMC Genomics Novel genome polymorphisms in BCG vaccine strains and impact on efficacy

@@ -1,0 +1,6 @@
+score,dataset_id,paper_id,block_id,section_number,sentence_number,sentence
+2.79,comm_use_subset,0a00a6df208e068e7aa369fb94641434ea0e6070,1,0,1,Global distribution and propagation of BCG has contributed to the in vitro evolution of the vaccine strain and is thought to partially account for the different outcomes of BCG vaccine trials.
+2.72,comm_use_subset,0a00a6df208e068e7aa369fb94641434ea0e6070,0,0,0,BMC Genomics Novel genome polymorphisms in BCG vaccine strains and impact on efficacy
+2.34,comm_use_subset,0a00a6df208e068e7aa369fb94641434ea0e6070,1,0,0,Bacille Calmette-Guérin (BCG) is an attenuated strain of Mycobacterium bovis currently used as a vaccine against tuberculosis.
+2.17,comm_use_subset,0a00a6df208e068e7aa369fb94641434ea0e6070,2,0,0,Bacille Calmette-Guérin (BCG) is an attenuated strain of Mycobacterium bovis and is the only available vaccine against tuberculosis (TB).
+1.89,comm_use_subset,0a00a6df208e068e7aa369fb94641434ea0e6070,1,0,7,"Our study demonstrates that major virulence factors are different among BCG strains, which provide molecular mechanisms for important vaccine phenotypes including adverse effect profile, tuberculin reactivity and protective efficacy."
